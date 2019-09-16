@@ -1,8 +1,10 @@
-package com.example.eos_basic_todo_app;
+package com.example.eos_basic_todo_app.main;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.eos_basic_todo_app.R;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -12,3 +14,4 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 }
+
